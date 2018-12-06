@@ -13,3 +13,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:8760/eureka
 foo: iii222
+name:haha
